@@ -8,3 +8,4 @@ A curated list of awesome companies that support remote work from Georgia
 - [Bending Spoons](https://bendingspoons.com/) - [MOBILE]
 - [Binance](https://www.binance.com/en/career) - [FRONT] [BACK] [BLOCKCHAIN] [JAVA] [GO]
 - [Modus Create](https://moduscreate.com/careers/) - [FRONT] [BACK] [JAVA] [PYTHON]
+- [Hotjar](https://www.hotjar.com/) - [BACK] [PYTHON] [POSTGRESQL]
