@@ -13,7 +13,7 @@ A curated list of awesome companies that support remote work from Georgia
 - [close.io](https://close.com/) - [FRONT]
 - [New relic](https://newrelic.com/) - [JAVA]
 - [Red hat](https://www.redhat.com/en/jobs) - [BACK]
-
+- [Vynyl](https://vynyl.com) - [AGENCY] [Different Positions]
 
 ## Other
 
