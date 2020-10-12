@@ -13,7 +13,9 @@ A curated list of awesome companies that support remote work from Georgia
 - [close.io](https://close.com/) - [FRONT]
 - [New relic](https://newrelic.com/) - [JAVA]
 - [Red hat](https://www.redhat.com/en/jobs) - [BACK]
-- [Vynyl](https://vynyl.com) - [AGENCY] [Different Positions]
+- [Vynyl](https://vynyl.com) - [AGENCY] [.Net][PYTHON][AND OTHERS]
+- [Synergysports](https://synergysports.com/careers/) [.NET][PYTHON][REACT]
+- [Getbanzai](https://www.getbanzai.com/) [Senior Software Engineer - Python/Django]
 
 ## Other
 
