@@ -16,7 +16,8 @@ A curated list of awesome companies that support remote work from Georgia
 - [Vynyl](https://vynyl.com) - [AGENCY] [.Net][PYTHON][AND OTHERS]
 - [Synergysports](https://synergysports.com/careers/) [.NET][PYTHON][REACT]
 - [Getbanzai](https://www.getbanzai.com/) [Senior Software Engineer - Python/Django]
-- [Hashicorp](https://www.hashicorp.com/jobs/engineering)[Egineering]
+- [Hashicorp](https://www.hashicorp.com/jobs/engineering) [Egineering]
+- [Toggl](https://toggl.com/jobs/) [Engineering and others]
 
 ## Other
 
