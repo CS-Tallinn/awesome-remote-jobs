@@ -18,6 +18,7 @@ A curated list of awesome companies that support remote work from Georgia
 - [Getbanzai](https://www.getbanzai.com/) [Senior Software Engineer - Python/Django]
 - [Hashicorp](https://www.hashicorp.com/jobs/engineering) [Egineering]
 - [Toggl](https://toggl.com/jobs/) [Engineering and others]
+- [Tradeswell](https://www.tradeswell.com/careers/) [Engineering and others]
 
 ## Other
 
