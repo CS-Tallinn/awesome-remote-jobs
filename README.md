@@ -20,6 +20,12 @@ A curated list of awesome companies that support remote work from Georgia
 - [Toggl](https://toggl.com/jobs/) [Engineering and others]
 - [Tradeswell](https://www.tradeswell.com/careers/) [Engineering and others]
 - [Quora](https://www.quora.com/careers/engineering) [FRONT][BACK]
+- [superside](https://www.superside.com/) [BACK][JAVA][KOTLIN][SPRING]
+- [DuckDuckgo](https://duckduckgo.com/hiring) [MOBILE][ANDROID][IOS][BACK]
+
+## Remote job websites
+- [Remotive.io](https://remotive.io/)
+- [nixa.io](https://www.nixa.io/developer)
 
 ## Other
 
