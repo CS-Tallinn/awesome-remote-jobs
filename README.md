@@ -22,6 +22,7 @@ A curated list of awesome companies that support remote work from Georgia
 - [Quora](https://www.quora.com/careers/engineering) [FRONT][BACK]
 - [superside](https://www.superside.com/) [BACK][JAVA][KOTLIN][SPRING]
 - [DuckDuckgo](https://duckduckgo.com/hiring) [MOBILE][ANDROID][IOS][BACK]
+- [HelpScout](https://www.helpscout.com/)[BACK][JAVA]
 
 ## Remote job websites
 - [Remotive.io](https://remotive.io/)
