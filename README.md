@@ -23,11 +23,12 @@ A curated list of awesome companies that support remote work from Georgia
 - [superside](https://www.superside.com/) [BACK][JAVA][KOTLIN][SPRING]
 - [DuckDuckgo](https://duckduckgo.com/hiring) [MOBILE][ANDROID][IOS][BACK]
 - [HelpScout](https://www.helpscout.com/)[BACK][JAVA]
+- [MessageBird](https://www.messagebird.com/en/careers/)[BACK][GO] - Salary + Stocks
 
 ## Remote job websites
 - [Remotive.io](https://remotive.io/)
 - [nixa.io](https://www.nixa.io/developer)
-- [https://remoteok.io/](https://remoteok.io/)
+- [remoteok.io](https://remoteok.io/)
 
 ## Other
 
