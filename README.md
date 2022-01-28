@@ -5,6 +5,7 @@ A curated list of awesome companies that support remote work from Georgia
 ## Contents
 
 - [ElasticSearch](https://www.elastic.co/) - [BACK] [JAVA] [PYTHON]
+- [Spotify](https://www.lifeatspotify.com/jobs?l=remote-emea) - [BACK][MOBILE]
 - [Bending Spoons](https://bendingspoons.com/) - [MOBILE]
 - [Binance](https://www.binance.com/en/career) - [FRONT] [BACK] [BLOCKCHAIN] [JAVA] [GO]
 - [Modus Create](https://moduscreate.com/careers/) - [FRONT] [BACK] [JAVA] [PYTHON]
