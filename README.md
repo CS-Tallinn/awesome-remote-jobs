@@ -25,6 +25,7 @@ A curated list of awesome companies that support remote work from Georgia
 - [DuckDuckgo](https://duckduckgo.com/hiring) [MOBILE][ANDROID][IOS][BACK]
 - [HelpScout](https://www.helpscout.com/)[BACK][JAVA]
 - [MessageBird](https://www.messagebird.com/en/careers/)[BACK][GO] - Salary + Stocks
+- [Stripe](https://stripe.com/jobs/search)[RUBY][SCALA][GO]
 
 ## Remote job websites
 - [Remotive.io](https://remotive.io/)
