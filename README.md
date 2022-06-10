@@ -34,6 +34,8 @@ A curated list of awesome companies that support remote work from Georgia
 - [remoteok.io](https://remoteok.io/)
 - [weworkremotely](https://weworkremotely.com/)
 - [EU remote jobs](https://euremotejobs.com/)
+- Search for: HN: Who wants to be hired? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582793)
+- Search for: HN: Who is hiring? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582796)
 
 ## Other
 
