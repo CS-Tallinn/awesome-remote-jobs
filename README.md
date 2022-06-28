@@ -27,6 +27,7 @@ A curated list of awesome companies that support remote work from Georgia
 - [MessageBird](https://www.messagebird.com/en/careers/)[BACK][GO] - Salary + Stocks
 - [Stripe](https://stripe.com/jobs/search)[RUBY][SCALA][GO]
 - [Shopify](https://www.shopify.com/careers/search)[RUBY][BACK][FRONT]
+- [ConsenSys](https://consensys.net/open-roles/)[BACK][FRONT][JAVA][GO][FULLSTACK]
 
 ## Remote job websites
 - [Remotive.io](https://remotive.io/)
