@@ -38,6 +38,7 @@ A curated list of awesome companies that support remote work from Georgia
 - [EU remote jobs](https://euremotejobs.com/)
 - [Walzay](https://walzay.com/)
 - [Turing](https://www.turing.com/)
+- [Crypto jobs](https://crypto.jobs/)
 - Search for: HN: Who wants to be hired? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582793)
 - Search for: HN: Who is hiring? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582796)
 
