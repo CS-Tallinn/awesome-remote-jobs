@@ -2,7 +2,7 @@
 
 A curated list of awesome companies that support remote work from Georgia
 
-## Contents
+## Companies
 
 - [ElasticSearch](https://www.elastic.co/) - [BACK] [JAVA] [PYTHON]
 - [Spotify](https://www.lifeatspotify.com/jobs?l=remote-emea) - [BACK][MOBILE]
@@ -49,6 +49,11 @@ A curated list of awesome companies that support remote work from Georgia
 - [remote.co](https://remote.co/)
 - Search for: HN: Who wants to be hired? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582793)
 - Search for: HN: Who is hiring? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582796)
+
+## Look up company details
+- [crunchbase](https://www.crunchbase.com)
+- [glassdoor](https://www.glassdoor.com)
+
 
 ## Other
 
