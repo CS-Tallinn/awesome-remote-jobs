@@ -29,6 +29,9 @@ A curated list of awesome companies that support remote work from Georgia
 - [Shopify](https://www.shopify.com/careers/search)[RUBY][BACK][FRONT]
 - [ConsenSys](https://consensys.net/open-roles/)[BACK][FRONT][JAVA][GO][FULLSTACK]
 - [Medal.tv](https://medal.tv/)[JAVA][BACK]
+- [Unified](https://www.unified.com/careers/) - [FULLSTACK][GO][REACT]
+- [stimulus](https://weworkremotely.com/remote-jobs/stimulus-software-engineer) - [FULLSTACK][REACT][NODEJS]
+- [Walnut](https://www.walnut.io/jobs#positions) - [BACK][FULLSTACK][REACT][NODEJS][JAVA][GO]
 
 ## Remote job websites
 - [Remotive.io](https://remotive.io/)
@@ -43,7 +46,6 @@ A curated list of awesome companies that support remote work from Georgia
 - [Angel co startup jobs](https://angel.co/jobs)
 - [Facet](https://app.facet.net/jobs/search)
 - [Working Nomads](https://www.workingnomads.com/jobs)
-- [weworkremotely](https://weworkremotely.com/)
 - [Himalayas](https://himalayas.app/jobs)
 - [Just Remote](https://justremote.co/remote-jobs)
 - [remote.co](https://remote.co/)
@@ -51,11 +53,18 @@ A curated list of awesome companies that support remote work from Georgia
 - Search for: HN: Who wants to be hired? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582793)
 - Search for: HN: Who is hiring? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582796)
 - [Signifytechnology Scala&functional Jobs](https://www.signifytechnology.com/jobs)
+- [Career Vault](https://www.careervault.io/remote-jobs/)
+- [indeed](https://www.indeed.com/)
+- [Authentic Jobs](https://authenticjobs.com/)
+- [Just Remote](https://justremote.co/remote-jobs)
+- [Remote Leads](https://remoteleads.io/)
 
 ## Look up company details
 - [crunchbase](https://www.crunchbase.com)
 - [glassdoor](https://www.glassdoor.com)
 
+## Interview preparation tutorial
+- [Software Engineer interviews: Everything you need to prepare](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 
 ## Other
 
