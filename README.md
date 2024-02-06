@@ -62,6 +62,9 @@ A curated list of awesome companies that support remote work from Georgia
 - [Authentic Jobs](https://authenticjobs.com/)
 - [Just Remote](https://justremote.co/remote-jobs)
 - [Remote Leads](https://remoteleads.io/)
+- [hired.com](https://hired.com)
+- [hackajob.com](https://hackajob.com)
+- [interested.fyi](https://interested.fyi/)
 
 ## Look up company details
 - [crunchbase](https://www.crunchbase.com)
@@ -69,6 +72,9 @@ A curated list of awesome companies that support remote work from Georgia
 
 ## Interview preparation tutorial
 - [Software Engineer interviews: Everything you need to prepare](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
+
+## Resume Builders
+- [rxresu.me](https://rxresu.me)
 
 ## Other
 
