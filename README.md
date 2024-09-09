@@ -40,6 +40,7 @@ A curated list of awesome companies that support remote work from Georgia
 ## Remote job websites
 - [Remotive.io](https://remotive.io/)
 - [nixa.io](https://www.nixa.io/developer)
+- [RemoteYeah](https://remoteyeah.com/)
 - [remoteok.io](https://remoteok.io/)
 - [weworkremotely](https://weworkremotely.com/)
 - [EU remote jobs](https://euremotejobs.com/)
