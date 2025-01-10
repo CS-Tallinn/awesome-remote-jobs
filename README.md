@@ -36,6 +36,7 @@ A curated list of awesome companies that support remote work from Georgia
 - [Paymentology](https://www.paymentology.com/about-us/careers)
 - [GoodNotes](https://www.goodnotes.com/careers#job-openings)
 - [Gigs](https://gigs.com/)
+- [NetherMind](https://www.nethermind.io/open-roles#open-roles)
 
 ## Remote job websites
 - [Remotive.io](https://remotive.io/)
