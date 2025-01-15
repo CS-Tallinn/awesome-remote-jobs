@@ -67,6 +67,7 @@ A curated list of awesome companies that support remote work from Georgia
 - [hired.com](https://hired.com)
 - [hackajob.com](https://hackajob.com)
 - [interested.fyi](https://interested.fyi/)
+- [Mostly AI](https://mostly-ai.jobs.personio.de/)
 
 ## Look up company details
 - [crunchbase](https://www.crunchbase.com)
