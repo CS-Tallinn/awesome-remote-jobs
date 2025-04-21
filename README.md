@@ -77,6 +77,10 @@ A curated list of awesome companies that support remote work from Georgia
 ## Resume Builders
 - [rxresu.me](https://rxresu.me)
 
+## Interview Prep Guides
+- [techinterviewhandbook.org](https://www.techinterviewhandbook.org)
+- [jobsearch.dev](https://www.jobsearch.dev)
+
 ## Other
 
 [A curated list of awesome remote working resources](https://github.com/lukasz-madon/awesome-remote-job)
