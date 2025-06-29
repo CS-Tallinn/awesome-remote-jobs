@@ -42,14 +42,15 @@ A curated list of awesome companies that support remote work from Georgia
 - [korfinancial](korfinancial.com)[JAVA]
 
 ## Remote job websites
+- Search for: HN: Who wants to be hired? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582793)
+- Search for: HN: Who is hiring? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582796)
 - [Remotive.io](https://remotive.io/)
-- [nixa.io](https://www.nixa.io/developer)
+- [Jungle](https://global.welcometothejungle.com/)
 - [RemoteYeah](https://remoteyeah.com/)
 - [remoteok.io](https://remoteok.io/)
 - [weworkremotely](https://weworkremotely.com/)
 - [EU remote jobs](https://euremotejobs.com/)
 - [Walzay](https://walzay.com/)
-- [Turing](https://www.turing.com/)
 - [Crypto jobs](https://crypto.jobs/)
 - [4day week jobs](https://4dayweek.io/remote-jobs)
 - [Angel co startup jobs](https://angel.co/jobs)
@@ -57,9 +58,6 @@ A curated list of awesome companies that support remote work from Georgia
 - [Himalayas](https://himalayas.app/jobs)
 - [Just Remote](https://justremote.co/remote-jobs)
 - [remote.co](https://remote.co/)
-- [Jungle](https://global.welcometothejungle.com/)
-- Search for: HN: Who wants to be hired? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582793)
-- Search for: HN: Who is hiring? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582796)
 - [Signifytechnology Scala&functional Jobs](https://www.signifytechnology.com/jobs)
 - [Authentic Jobs](https://authenticjobs.com/)
 - [Just Remote](https://justremote.co/remote-jobs)
