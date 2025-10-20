@@ -39,7 +39,9 @@ A curated list of awesome companies that support remote work from Georgia
 - [NetherMind](https://www.nethermind.io/open-roles#open-roles)
 - [Mostly AI](https://mostly-ai.jobs.personio.de/)
 - [proemion](https://career.proemion.com/)
-- [korfinancial](korfinancial.com)[JAVA]
+- [korfinancial](https://korfinancial.com)[JAVA]
+- [Fairtiq](https://fairtiq.com/en/careers)
+- [Brave](https://brave.com/careers/)
 
 ## Remote job websites
 - Search for: HN: Who wants to be hired? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582793)
