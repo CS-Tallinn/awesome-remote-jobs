@@ -43,6 +43,17 @@ A curated list of awesome companies that support remote work from Georgia
 - [Fairtiq](https://fairtiq.com/en/careers)
 - [Brave](https://brave.com/careers/)
 - [Veza](https://veza.com/company/careers/)
+- [Buffer](https://buffer.com/journey)
+- [PostHog](https://posthog.com/careers)
+- [Linear](https://linear.app/careers)
+- [Raycast](https://www.raycast.com/careers#open-positions)
+- [Ashby](https://www.ashbyhq.com/careers)
+- [Prisma](https://www.prisma.io/careers#current)
+- [Sanity](https://www.sanity.io/careers)
+- [n8n](https://n8n.io/careers/)
+- [Supabase](https://supabase.com/careers)
+- [StoryBlok](https://www.storyblok.com/jobs)
+
 
 ## Remote job websites
 - Search for: HN: Who wants to be hired? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582793)
