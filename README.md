@@ -58,7 +58,7 @@ A curated list of awesome companies that support remote work from Georgia
 - [supermove](https://jobs.lever.co/supermove)
 - [Cloudtalk](https://www.cloudtalk.io/)
 - [Dune](https://dune.com/careers)
-
+- [Bunny](https://bunny.net/careers/)
 
 ## Remote job websites
 - Search for: HN: Who wants to be hired? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582793)
