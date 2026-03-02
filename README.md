@@ -89,9 +89,6 @@ A curated list of awesome companies that support remote work from Georgia
 - [crunchbase](https://www.crunchbase.com)
 - [glassdoor](https://www.glassdoor.com)
 
-## Interview preparation tutorial
-- [Software Engineer interviews: Everything you need to prepare](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
-
 ## Resume Builders
 - [rxresu.me](https://rxresu.me)
 
@@ -99,6 +96,7 @@ A curated list of awesome companies that support remote work from Georgia
 - [techinterviewhandbook.org](https://www.techinterviewhandbook.org)
 - [jobsearch.dev](https://www.jobsearch.dev)
 - [Hello interview](https://www.hellointerview.com/)
+- [Software Engineer interviews: Everything you need to prepare](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 
 ## Other
 
