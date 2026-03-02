@@ -88,6 +88,7 @@ A curated list of awesome companies that support remote work from Georgia
 ## Look up company details
 - [crunchbase](https://www.crunchbase.com)
 - [glassdoor](https://www.glassdoor.com)
+- [Trustpilot](https://trustpilot.com)
 
 ## Resume Builders
 - [rxresu.me](https://rxresu.me)
