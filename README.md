@@ -80,9 +80,7 @@ A curated list of awesome companies that support remote work from Georgia
 - [Signifytechnology Scala&functional Jobs](https://www.signifytechnology.com/jobs)
 - [Authentic Jobs](https://authenticjobs.com/)
 - [Just Remote](https://justremote.co/remote-jobs)
-- [hired.com](https://hired.com)
 - [hackajob.com](https://hackajob.com)
-- [interested.fyi](https://interested.fyi/)
 - [employ.work](https://employ.work)
 
 ## Look up company details
