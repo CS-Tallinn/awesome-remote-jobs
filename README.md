@@ -59,6 +59,7 @@ A curated list of awesome companies that support remote work from Georgia
 - [Cloudtalk](https://www.cloudtalk.io/)
 - [Dune](https://dune.com/careers)
 - [Bunny](https://bunny.net/careers/)
+- [Metabse](https://www.metabase.com/)[Closure]
 
 ## Remote job websites
 - Search for: HN: Who wants to be hired? ([Month] [Year]) - [ycombinator June 2022](https://news.ycombinator.com/item?id=31582793)
