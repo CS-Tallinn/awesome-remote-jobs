@@ -86,6 +86,7 @@ A curated list of awesome companies that support remote work from Georgia
 - [hackajob.com](https://hackajob.com)
 - [employ.work](https://employ.work)
 - [Matcha](https://matcha.fm/)
+- [FoundRole](https://www.foundrole.com)
 
 ## Look up company details
 - [crunchbase](https://www.crunchbase.com)
