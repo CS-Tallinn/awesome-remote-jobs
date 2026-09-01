@@ -95,6 +95,7 @@ A curated list of awesome companies that support remote work from Georgia
 
 ## Resume Builders
 - [rxresu.me](https://rxresu.me)
+- [FoundRole Resume Builder](https://www.foundrole.com/resume-builder) — upload an existing resume, tailor a version per role, export PDF/DOCX/TXT free
 
 ## Interview Prep Guides
 - [techinterviewhandbook.org](https://www.techinterviewhandbook.org)
