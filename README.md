@@ -95,6 +95,7 @@ A curated list of awesome companies that support remote work from Georgia
 
 ## Resume Builders
 - [rxresu.me](https://rxresu.me)
+- [ResumeAI](https://withresumeai.com/) - AI resume builder + free ATS checker
 
 ## Interview Prep Guides
 - [techinterviewhandbook.org](https://www.techinterviewhandbook.org)
