@@ -95,6 +95,7 @@ A curated list of awesome companies that support remote work from Georgia
 
 ## Resume Builders
 - [rxresu.me](https://rxresu.me)
+- [JobEmerge](https://www.jobemerge.work/) - Job-fit checks, resume editing and translation, cover letters, mock interviews, and application tracking.
 
 ## Interview Prep Guides
 - [techinterviewhandbook.org](https://www.techinterviewhandbook.org)
